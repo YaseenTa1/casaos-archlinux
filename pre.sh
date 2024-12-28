@@ -12,6 +12,6 @@ yay -S udevil mergerfs -y
 
 sudo systemctl enable --now docker
 
-wget github.com..... -O install.sh # Not Completed
+wget https://raw.githubusercontent.com/YaseenTa1/casaos-archlinux/refs/heads/main/pre.sh -O install.sh
 
 sudo bash install.sh
